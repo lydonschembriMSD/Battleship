@@ -6,6 +6,6 @@ public class GameManager : MonoBehaviour
 {
     public void CreateNewGameInstance()
     {
-        FirebaseController.CreateInstance();
+        StartCoroutine(FirebaseController.CreateInstance2());
     }
 }
