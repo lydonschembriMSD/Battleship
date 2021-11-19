@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540987065001",
+    "firebase_url": "https://battleshiplydon-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "battleshiplydon",
+    "storage_bucket": "battleshiplydon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540987065001:android:58dc7e40deb71b4ed65fb8",
+        "android_client_info": {
+          "package_name": "com.battleshipydon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540987065001-1rcoq50u6fim5nlg3ddsovfcdh3movcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBmxv6PX45ojb5eG4YhkQMpwsYfMd8TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540987065001-1rcoq50u6fim5nlg3ddsovfcdh3movcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
